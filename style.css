@@ -1,0 +1,15 @@
+a:link {
+    background-color: transparent;
+}
+
+a:visited {
+    background-color: transparent;
+}
+
+a:hover {
+    background-color: transparent;
+}
+
+a:active {
+    color: gold;
+}
