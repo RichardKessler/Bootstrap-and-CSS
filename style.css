@@ -1,7 +1,18 @@
-body {}
+body {
+    background-color: black;
+}
 
 h1 {
     text-align: center;
+    color: snow;
+}
+
+h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: crimson;
+    color: snow;
 }
 
 a:link {
@@ -23,6 +34,7 @@ a:hover {
 
 .jumbotron {
     background-color: rgb(11, 94, 97);
+    -webkit-margin-bottom-collapse: discard;
 }
 
 @keyframes lead {
@@ -65,5 +77,24 @@ a:hover {
 .lead li {
     margin-top: 5px;
     font-size: 40px;
+    color: crimson;
+}
+
+.background {
+    background-color: black;
+}
+
+.aboutpadding {
+    background-color: black;
+    padding-top: 70px;
+    padding-bottom: 85px;
+}
+
+#pic {
+    width: 200px;
+    height: 200px;
+}
+
+#about p {
     color: crimson;
 }
