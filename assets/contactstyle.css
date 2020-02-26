@@ -7,3 +7,12 @@ h1 {
     color: snow;
     margin-top: 20px;
 }
+
+label {
+    color: crimson;
+    font-weight: bold;
+}
+
+.col-form-label {
+    font-size: xx-large;
+}

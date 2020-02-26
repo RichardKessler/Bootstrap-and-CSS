@@ -42,11 +42,24 @@
     <div class="container">
         <h1>Contact Me</h1>
         <form>
-            <div class="row justify-content-center">
-                <div class="col-md-2">
-
+            <!-- Name input -->
+            <div class="form-group row">
+                <label for="inputName" class="col-md-2 col-form-label">Name</label>
+                <div class="col-md-10">
+                    <input type="text" class="form-control" id="inputName" placeholder="John Smith">
                 </div>
-
+            </div>
+            <!-- Email input -->
+            <div class="form-group row">
+                <label for="inputEmail" class="col-md-2 col-form-label">Email</label>
+                <div class="col-md-10">
+                    <input type="email" class="form-control" id="inoutEmail" placeholder="Name@gmail.com">
+                </div>
+            </div>
+            <!-- Message inout -->
+            <div class="form-group row">
+                <label for="messageArea">Add a message</label>
+                <textarea class="form-control" id="messageArea" rows="5"></textarea>
             </div>
         </form>
 
