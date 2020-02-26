@@ -28,4 +28,6 @@ The last page I worked on was the portfolio page itself.  I inserted the navbar 
 
 ## Credits
 
+*  [https://www.unstableunicorns.com/pages/here-to-slay-wallpapers] - Unstable Unicors - for their images used in the carousel
+
 
