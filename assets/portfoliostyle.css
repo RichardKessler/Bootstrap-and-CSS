@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+a:link {
+    background-color: transparent;
+}
+
+a:visited {
+    background-color: transparent;
+}
+
+a:hover {
+    background-color: transparent;
+}
+
+.nav-link:active {
+    text-decoration-color: crimson !important;
+    text-decoration: line-through;
+}
