@@ -1,13 +1,15 @@
 # Bootstrap-and-CSS
+`````
 UNC Bootcamp HW Assignment 2 - Bootstrap with CSS
+`````
 
 Using Bootstrap and some personal CSS I created a responsive portfolio.  I had to link three html pages together and make them all have responsive elements to be viewed on any screen size.  I used bootstrap's grid to layout the page elements and make it clean looking.  I added some personal CSS to change certain elements that needed more attention.
 
 
 ## Getting Started
-`````
+
 By going to: https://github.com/RichardKessler/Bootstrap-and-CSS- you can look at all the code and grab a copy of the repository for yourself.
-`````
+
 
 ## Portfolio Details
 
@@ -18,6 +20,12 @@ My next page was the contact.html page.  I copied the navbar code from the index
 
 The last page I worked on was the portfolio page itself.  I inserted the navbar and footer elements first.  I made the main container hold a carousel element to show some of my past work.  I linked these to my code refactoring assignment, a test portfolio page I made, and a mouse shooting game I made before the bootcamp started.  I added pictures and indicators to advance the carousel.  Once that page was done I made a personal CSS and fine tuned a few elements.
 
+## Built With
 
+* Bootstrap Grid
+* HTML/CSS
+* Github
+
+## Credits
 
 
