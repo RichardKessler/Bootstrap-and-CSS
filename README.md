@@ -29,5 +29,13 @@ The last page I worked on was the portfolio page itself.  I inserted the navbar 
 ## Credits
 
 * [Unstable Unicorns](https://www.unstableunicorns.com/pages/here-to-slay-wallpapers) - for their images used in the carousel
+* Eddie Saunders - For hosting a study group and providing input and help looking up element implementation.
+* Travis Mairena - For input and help looking up element implementation.
+
+## Author 
+
+`````
+Richard Kessler
+`````
 
 
