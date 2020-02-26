@@ -26,6 +26,12 @@ a:hover {
     text-decoration: line-through;
 }
 
+.btn:hover,
+.btn:active {
+    background-color: transparent;
+    text-decoration: underline;
+}
+
 label {
     color: crimson;
     font-weight: bold;

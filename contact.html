@@ -46,23 +46,27 @@
             <div class="form-group row">
                 <label for="inputName" class="col-md-2 col-form-label">Name</label>
                 <div class="col-md-10">
-                    <input type="name" class="form-control" id="inputName" placeholder="John Smith">
+                    <input type="text" class="form-control" id="inputName" placeholder="John Smith" required>
                 </div>
             </div>
             <!-- Email input -->
             <div class="form-group row">
                 <label for="inputEmail" class="col-md-2 col-form-label">Email</label>
                 <div class="col-md-10">
-                    <input type="email" class="form-control" id="inoutEmail" placeholder="Name@gmail.com">
+                    <input type="email" class="form-control" id="inoutEmail" placeholder="Name@gmail.com" required>
                 </div>
             </div>
             <!-- Message inout -->
             <div class="form-group row">
                 <label for="messageArea">Add a message</label>
-                <textarea class="form-control" id="messageArea" rows="5"></textarea>
+                <textarea class="form-control" id="messageArea" maxlength="3000" rows="5"></textarea>
             </div>
             <!-- Submit button -->
-            <a href="jidmenosta@gmail.com" class="btn btn-outline-success btn-lg" role="button">Send Email</a>
+            <div class="row">
+                <div class="col-md-3 form-group">
+                    <button type="submit" class="btn btn-outline-success btn-lg">Send Email</button>
+                </div>
+            </div>
         </form>
 
 
