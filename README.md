@@ -8,7 +8,7 @@ Using Bootstrap and some personal CSS I created a responsive portfolio.  I had t
 
 ## Getting Started
 
-By going to: https://github.com/RichardKessler/Bootstrap-and-CSS- you can look at all the code and grab a copy of the repository for yourself.
+By going to: https://richardkessler.github.io/Bootstrap-and-CSS/ you can view the portfolio.
 
 
 ## Portfolio Details
